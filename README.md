@@ -1,14 +1,14 @@
  Use the following demo accounts to login
 - Librarian
 ```
-Email address: testlibrarian@library.com
-Password: librarian123
+Email address: jk@gmail.com
+Password: admin123
 ```
 
 - Member
 ```
-Email address: testmember@library.com
-Password: member123
+Email address: kakadiyaj66@library.com
+Password: admin123
 ```
 
 
